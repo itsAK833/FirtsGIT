@@ -1,1 +1,1 @@
-console.log("hello t fo git world");
+console.log("hello to fo git world");
